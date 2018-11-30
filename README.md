@@ -1,2 +1,3 @@
 # hello_world
-my very first Repository
+this is my very first Repository
+hello everyone! 
